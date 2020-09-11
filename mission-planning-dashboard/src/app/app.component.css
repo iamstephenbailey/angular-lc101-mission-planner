@@ -1,4 +1,9 @@
 .box{
     display: flex;
     padding: 10px;
+    color: red;
+}
+
+div{
+    background-color: gold;
 }
